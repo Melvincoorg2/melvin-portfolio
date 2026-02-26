@@ -18,13 +18,13 @@ const specs = [
     value: "B.E. Computer Science & Engineering",
   },
   {
-    key: "Institution",
+    key: "University",
     value:
-      "Maharaja Institute of Technology Thandavapura, Mysore",
+      "Visvesvaraya Technological University (VTU)",
   },
   {
     key: "Academic Record",
-    value: "CGPA: 8.7 / 10 | Graduating 2025",
+    value: "CGPA: 8.7 / 10 | Graduated year: 2025",
   },
 ];
 

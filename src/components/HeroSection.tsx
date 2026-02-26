@@ -28,8 +28,8 @@ const HeroSection = () => {
             className="text-muted-foreground text-lg max-w-xl mb-10 opacity-0 animate-fade-up"
             style={{ animationDelay: "0.8s" }}
           >
-            Building scalable, distributed, and production-grade systems using
-            modern cloud technologies and strong engineering fundamentals.
+            Software Engineer with strong foundations in data structures, algorithms, and backend development, experienced
+            in building scalable, distributed, and production-grade systems using Python and modern cloud technologies.
           </p>
 
           <div

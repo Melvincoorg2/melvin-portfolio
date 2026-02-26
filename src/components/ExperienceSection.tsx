@@ -17,7 +17,7 @@ const experiences = [
   {
     role: "AI-DevOps Engineer",
     company: "Rooman Technologies & IBM",
-    duration: "4 Months",
+    duration: "5 Months",
     logs: [
       "Containerized backend and AI services using Docker for consistent cross-environment deployments",
       "Designed and implemented CI/CD pipelines using Jenkins to automate build and deployment workflows",

@@ -3,7 +3,7 @@ import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 const categories = [
   {
     title: "Programming Languages",
-    skills: ["Python", "Java", "C", "SQL"],
+    skills: ["Python", "C", "Java", "SQL"],
     color: "cyan",
   },
   {
@@ -24,7 +24,6 @@ const categories = [
       "FastAPI",
       "Django",
       "RESTful APIs",
-      "Microservices Architecture",
     ],
     color: "cyan",
   },
@@ -39,7 +38,7 @@ const categories = [
       "Docker",
       "CI/CD Pipelines",
       "Jenkins",
-      "IBM Cloud",
+      "Version Control",
       "Git",
       "GitHub",
     ],

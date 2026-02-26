@@ -37,7 +37,7 @@ const ProjectsSection = () => {
     <section id="projects" className="py-24 px-6">
       <div className="max-w-6xl mx-auto" ref={ref}>
         <h2 className="text-xs tracking-[0.3em] uppercase text-primary mb-2">
-          // Live Systems
+          // Systems
         </h2>
 
         <h3 className="text-3xl font-bold mb-10 text-foreground">

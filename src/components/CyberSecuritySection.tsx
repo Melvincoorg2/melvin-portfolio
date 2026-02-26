@@ -9,7 +9,7 @@ const CyberSecuritySection = () => {
     <section id="security" className="py-24 px-6">
       <div className="max-w-4xl mx-auto" ref={ref}>
         <h2 className="text-xs tracking-[0.3em] uppercase text-primary mb-2">
-          // Security Clearance
+          // Hands-on Practice
         </h2>
 
         <h3 className="text-3xl font-bold mb-10 text-foreground">
@@ -36,7 +36,7 @@ const CyberSecuritySection = () => {
             </p>
 
             <p className="pl-4 text-foreground/60">
-              → 90+ rooms completed | Focused on Web Security, Networking, and Offensive Testing Fundamentals
+              → 100+ rooms completed |Top 5% in TryHackMe Platform | Focused on Web Security, Networking, and Offensive Testing Fundamentals
             </p>
 
             <p className="mt-4">
